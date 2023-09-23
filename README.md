@@ -23,6 +23,18 @@ The primary objectives of this project are:
 
 ## Sample Results
 
+### The project includes
+* [Import libraries and dataset](#Import-libraries-and-dataset)
+* [Descriptive analysis of the data](#Descriptive-analysis-of-the-data)
+* [Feature engineering, data cleaning](#-Feature-engineering,-data-cleaning)
+    * [Division of the dataset into training and test datasets](#Division-of-the-dataset-into-training-and-test-datasets)
+    * [Handling missing data](#-Handling-missing-data)
+* [Logistic Regression](#Logistic-Regression)
+* [XGBoost](#XGBoost)
+* [Decision trees](#Decision-trees)
+* [Decision trees with RFE](#Decision-trees-with-RFE)
+* [Suport Vector Machine (SVM)](#Suport-Vector-Machine-(SVM))
+
 ![output](https://github.com/Bartoszcz28/Gym_Subscription/assets/82092858/9a7e6525-162d-403e-b4bb-3d6897983d51)
 
 
