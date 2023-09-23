@@ -3,7 +3,7 @@
 ![image](https://github.com/Bartoszcz28/Gym_Subscription/assets/82092858/0e581b8f-4015-4e2e-b944-3be255261468)
 
 ## Project Description
-This project aims to analyze gym subscription data and predict which potential customers are likely to purchase a gym membership. We utilize customer data, such as age, gender, hobby, and other factors, to create a predictive model for potential customers.
+This project aims to analyze gym subscription data and predict which potential customers are likely to purchase a gym membership. I utilize customer data, such as age, gender, hobby, and other factors, to create a predictive model for potential customers.
 
 ## Project Objectives
 The primary objectives of this project are:
@@ -36,7 +36,7 @@ The primary objectives of this project are:
 * Decision trees with RFE
 * Suport Vector Machine (SVM)
 
-As a result of the analysis, we discovered that the target group is single men, a group with the highest ratio of exercising to non-exercising people. Unfortunately, based on hobbies and occupation, we are not able to determine whether advertising should be targeted at this group, because the data on hobbies and occupation are too varied to clearly determine their influence on whether a person exercises at the gym.
+As a result of my analysis, I discovered that the target audience is a single man, a group with the highest ratio of exercising to non-exercising individuals. Unfortunately, based on hobbies and occupation, I am not able to determine whether advertising should be targeted at this group, because the data on hobbies and occupation is too varied to clearly determine its influence on whether a person exercises at the gym.
 
 The highest accuracy was achieved using the XGBoost model was about **86%**.
 
