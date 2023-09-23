@@ -25,25 +25,18 @@ The primary objectives of this project are:
 
 
 ### The project includes:
-* [Import libraries and dataset]
-* [Descriptive analysis of the data]
-* [Feature engineering, data cleaning]
-    * [Division of the dataset into training and test datasets]
-    * [Handling missing data]
-* [Logistic Regression]
-* [XGBoost]
-* [Decision trees]
-* [Decision trees with RFE]
-* [Suport Vector Machine (SVM)]
-
-As a result of the analysis, we discovered that the target group is single men, a group with the highest ratio of exercising to non-exercising people. Unfortunately, based on hobbies and occupation, we are not able to determine whether advertising should be targeted at this group, because the data on hobbies and occupation are too varied to clearly determine their influence on whether a person exercises at the gym.
-
-Models were used during data analysis:
+* Import libraries and dataset
+* Descriptive analysis of the data
+* Feature engineering, data cleaning
+    * [Division of the dataset into training and test datasets
+    * [Handling missing data
 * Logistic Regression
 * XGBoost
 * Decision trees
 * Decision trees with RFE
 * Suport Vector Machine (SVM)
+
+As a result of the analysis, we discovered that the target group is single men, a group with the highest ratio of exercising to non-exercising people. Unfortunately, based on hobbies and occupation, we are not able to determine whether advertising should be targeted at this group, because the data on hobbies and occupation are too varied to clearly determine their influence on whether a person exercises at the gym.
 
 The highest accuracy was achieved using the XGBoost model was about **86%**.
 
