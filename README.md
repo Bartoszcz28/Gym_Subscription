@@ -28,8 +28,8 @@ The primary objectives of this project are:
 * Import libraries and dataset
 * Descriptive analysis of the data
 * Feature engineering, data cleaning
-    * [Division of the dataset into training and test datasets
-    * [Handling missing data
+    * Division of the dataset into training and test datasets
+    * Handling missing data
 * Logistic Regression
 * XGBoost
 * Decision trees
