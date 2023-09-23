@@ -23,7 +23,8 @@ The primary objectives of this project are:
 
 ## Sample Results
 
-### The project includes
+
+### The project includes:
 * [Import libraries and dataset]
 * [Descriptive analysis of the data]
 * [Feature engineering, data cleaning]
@@ -34,6 +35,19 @@ The primary objectives of this project are:
 * [Decision trees]
 * [Decision trees with RFE]
 * [Suport Vector Machine (SVM)]
+
+As a result of the analysis, we discovered that the target group is single men, a group with the highest ratio of exercising to non-exercising people. Unfortunately, based on hobbies and occupation, we are not able to determine whether advertising should be targeted at this group, because the data on hobbies and occupation are too varied to clearly determine their influence on whether a person exercises at the gym.
+
+Models were used during data analysis:
+* Logistic Regression
+* XGBoost
+* Decision trees
+* Decision trees with RFE
+* Suport Vector Machine (SVM)
+
+The highest accuracy was achieved using the XGBoost model was about **86%**.
+
+In the diagram below we can also observe that the number of acquaintances that a person has is also very important, most people in the target group have about 200 friends.
 
 ![output](https://github.com/Bartoszcz28/Gym_Subscription/assets/82092858/9a7e6525-162d-403e-b4bb-3d6897983d51)
 
