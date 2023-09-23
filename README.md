@@ -1,5 +1,7 @@
 # Gym Subscription Analysis Project
 
+![image](https://github.com/Bartoszcz28/Gym_Subscription/assets/82092858/0e581b8f-4015-4e2e-b944-3be255261468)
+
 ## Project Description
 This project aims to analyze gym subscription data and predict which potential customers are likely to purchase a gym membership. We utilize customer data, such as age, gender, hobby, and other factors, to create a predictive model for potential customers.
 
