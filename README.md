@@ -13,16 +13,16 @@ The primary objectives of this project are:
 - Understanding the factors influencing customer purchase decisions regarding gym subscriptions.
 
 ## Repository Contents
-- **notebooks**: A folder containing Jupyter notebooks with data analysis and model development.
+- **GymSubscription**: Main data analysis file.
+- **Data_Impout_hobby**: The file in which contains ways to fill in missing data for the hobby variable. 
 - **data**: A folder containing the input data for the project.
-- **src**: A folder containing the project source code, including scripts for data preprocessing and model creation.
-- **results**: A folder containing analysis results and models.
-- **docs**: A folder containing project documentation, if available.
+- **models**: A folder containing the project-trained models.
 
 ## Authors
 - Bartosz Czarnecki
 
 ## Sample Results
-[Here, you can include sample analysis results or model outputs if applicable.]
+
+![output](https://github.com/Bartoszcz28/Gym_Subscription/assets/82092858/9a7e6525-162d-403e-b4bb-3d6897983d51)
 
 
